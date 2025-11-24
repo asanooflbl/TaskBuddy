@@ -14,3 +14,4 @@ Deleting Tasks: Click the trash icon next to a task to delete it.
 Clearing All Tasks: Click the "Clear All Tasks" button to remove all tasks.
 Progress Tracker: View the progress of your tasks in the progress tracker.
 
+<img width="1899" height="808" alt="430610726-711647da-6702-49f3-9cde-be40719b270c" src="https://github.com/user-attachments/assets/82dc3d56-26c9-4521-816a-496f4f383dcf" />
